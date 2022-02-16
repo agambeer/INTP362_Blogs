@@ -32,32 +32,33 @@ ASP.NET Core comes built-in with .NET SDK (Software Development Kit) for Windows
 IDEs (Integrated Development Environments) would be a strong recommendation for building ASP.NET Core apps because IDEs generate most of the rudimentary code to set the basis of the applications. On Windows, Visual Studio is the best IDE to build ASP.NET Core applications because of good integration of Visual Studio with .NET and Windows. Visual Studio Code (with the right set of extensions) and JetBrains Rider (not free) are good alternatives to build and run .NET applications on Windows, macOS, and Linux.<br />
 For the purposes of this blog post, I will be using .NET 6 SDK and Visual Studio 2022 Community (free) edition (the latest ones at the time of publishing of the blog) for demonstration of the features of ASP.NET Core.<br />
 Here is a video demonstrating the installation of .NET 6 SDK on Windows:
+  <br />https://youtu.be/CJe4UY5oywU<br>
 
-Here is a video demonstrating the installation of Visual Studio 2022 on Windows:
-
-Here is a video demonstrating the creation of ASP.NET Core MVC web application project from the templates provided by Visual Studio: 
-
-In the next blog, I will be demonstrating the CPRG352 Web application Programming final project using ASP.NET Core MVC.
-References:
-https://dev.to/alagrede/lean-how-to-build-your-personal-blog-with-github-pages-42ae
-https://pages.github.com/
-https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/
-https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
-https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework
-https://dotnet.microsoft.com/en-us/learn/xamarin/what-is-xamarin
-https://docs.microsoft.com/en-us/dotnet/core/introduction
-https://en.wikipedia.org/wiki/.NET
-https://en.wikipedia.org/wiki/.NET_Framework
-https://en.wikipedia.org/wiki/ASP.NET
-https://resources.infosecinstitute.com/topic/net-framework-clr-common-language-runtime/
-https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0
-https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-6.0&tabs=visual-studio
-https://dotnet.microsoft.com/en-us/apps/aspnet
-https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps
-https://dotnet.microsoft.com/en-us/apps/aspnet/mvc
-https://www.c-sharpcorner.com/UploadFile/36985e/web-forms-mvc-and-web-pages-in-Asp-Net/
-https://www.doteasy.com/web-hosting-articles/what-is-a-dynamic-web-page.cfm
-https://hexishub.medium.com/blazor-vs-razor-1dd7548bcf29
-https://dotnet.microsoft.com/en-us/languages
-https://www.lifewire.com/what-is-an-aspx-file-2619705
+Here is a video demonstrating the installation of Visual Studio 2022 on Windows:<br>
+https://youtu.be/NKdVRvFPtMI<br>
+Here is a video demonstrating the creation of ASP.NET Core MVC web application project from the templates provided by Visual Studio: <br>
+https://youtu.be/tvuiK1L9qb8<br>
+In the next blog, I will be demonstrating the CPRG352 Web application Programming final project using ASP.NET Core MVC.<br>
+## References:
+https://dev.to/alagrede/lean-how-to-build-your-personal-blog-with-github-pages-42ae<br />
+https://pages.github.com/<br />
+https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/<br />
+https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet<br />
+https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework<br />
+https://dotnet.microsoft.com/en-us/learn/xamarin/what-is-xamarin<br />
+https://docs.microsoft.com/en-us/dotnet/core/introduction<br />
+https://en.wikipedia.org/wiki/.NET<br />
+https://en.wikipedia.org/wiki/.NET_Framework<br />
+https://en.wikipedia.org/wiki/ASP.NET<br />
+https://resources.infosecinstitute.com/topic/net-framework-clr-common-language-runtime/<br />
+https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0<br />
+https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-6.0&tabs=visual-studio<br />
+https://dotnet.microsoft.com/en-us/apps/aspnet<br />
+https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps<br />
+https://dotnet.microsoft.com/en-us/apps/aspnet/mvc<br />
+https://www.c-sharpcorner.com/UploadFile/36985e/web-forms-mvc-and-web-pages-in-Asp-Net/<br />
+https://www.doteasy.com/web-hosting-articles/what-is-a-dynamic-web-page.cfm<br />
+https://hexishub.medium.com/blazor-vs-razor-1dd7548bcf29<br />
+https://dotnet.microsoft.com/en-us/languages<br />
+https://www.lifewire.com/what-is-an-aspx-file-2619705<br />
 
